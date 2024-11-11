@@ -5,7 +5,6 @@ name: default
 platform:
   arch: arm64
 
-
 trigger:
   branch:
   - main
